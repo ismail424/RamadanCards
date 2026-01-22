@@ -1,0 +1,13 @@
+Information: Utmatningskatalogen 'C:\Users\cicas\Desktop\RamadanCards\2026\gr' skapades.
+Plotted to 'C:\Users\cicas\Desktop\RamadanCards\2026\gr\RamadanCard-F_Cu.gtl'.
+Plotted to 'C:\Users\cicas\Desktop\RamadanCards\2026\gr\RamadanCard-B_Cu.gbl'.
+Plotted to 'C:\Users\cicas\Desktop\RamadanCards\2026\gr\RamadanCard-F_Paste.gtp'.
+Plotted to 'C:\Users\cicas\Desktop\RamadanCards\2026\gr\RamadanCard-B_Paste.gbp'.
+Plotted to 'C:\Users\cicas\Desktop\RamadanCards\2026\gr\RamadanCard-F_Silkscreen.gto'.
+Plotted to 'C:\Users\cicas\Desktop\RamadanCards\2026\gr\RamadanCard-B_Silkscreen.gbo'.
+Plotted to 'C:\Users\cicas\Desktop\RamadanCards\2026\gr\RamadanCard-F_Mask.gts'.
+Plotted to 'C:\Users\cicas\Desktop\RamadanCards\2026\gr\RamadanCard-B_Mask.gbs'.
+Plotted to 'C:\Users\cicas\Desktop\RamadanCards\2026\gr\RamadanCard-Edge_Cuts.gm1'.
+Created Gerber job file 'C:\Users\cicas\Desktop\RamadanCards\2026\gr\RamadanCard-job.gbrjob'.
+Information: Done.
+Information: Done.

@@ -1,0 +1,24 @@
+# KiCad
+*.bck
+*.lck
+*.kicad_prl
+fp-info-cache
+# Gerber files (often good to ignore if generated, but some keep them - I will ignore the temp ones but keep the folder if user wants)
+# Since the user has a gr/ folder, maybe they want to keep gerbers. 
+# But standard practice is to not commit generated files.
+# I will leave gr/ alone but ignore temp files if any. 
+# Autosaves
+*.kicad_pcb-bak
+*.sch-bak
+*-bak
+_autosave-*
+*.net
+*.xml
+*.csv
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Editors
+.vscode/

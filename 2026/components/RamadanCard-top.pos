@@ -1,0 +1,27 @@
+### Footprint positions - created on 2026-02-10T20:17:43+0100 ###
+### Printed by KiCad version 9.0.7-9.0.7~ubuntu24.04.1
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val             Package                                               PosX       PosY       Rot  Side
+D1        SK6805          LED_SK6812_EC15_1.5x1.5mm                         164.0500   -88.4500    0.0000  top
+D2        SK6805          LED_SK6812_EC15_1.5x1.5mm                         164.8543   -77.2602    0.0000  top
+D3        SK6805          LED_SK6812_EC15_1.5x1.5mm                         153.5500   -74.4500    0.0000  top
+D4        SK6805          LED_SK6812_EC15_1.5x1.5mm                         151.7550   -86.4760    0.0000  top
+D5        SK6805          LED_SK6812_EC15_1.5x1.5mm                         151.8784   -97.4327    0.0000  top
+D6        SK6805          LED_SK6812_EC15_1.5x1.5mm                         134.5500   -90.9500    0.0000  top
+D7        SK6805          LED_SK6812_EC15_1.5x1.5mm                         144.7955   -80.5173    0.0000  top
+D8        SK6805          LED_SK6812_EC15_1.5x1.5mm                         131.5500   -75.9500    0.0000  top
+D9        SK6805          LED_SK6812_EC15_1.5x1.5mm                         123.0500   -83.9500    0.0000  top
+D10       SK6805          LED_SK6812_EC15_1.5x1.5mm                         116.1999   -77.9624    0.0000  top
+D11       SK6805          LED_SK6812_EC15_1.5x1.5mm                          92.0615   -75.0910    0.0000  top
+D12       SK6805          LED_SK6812_EC15_1.5x1.5mm                          81.4500   -75.9500    0.0000  top
+D13       SK6805          LED_SK6812_EC15_1.5x1.5mm                          88.9911   -84.5426    0.0000  top
+D14       SK6805          LED_SK6812_EC15_1.5x1.5mm                          98.8706   -92.7290    0.0000  top
+D15       SK6805          LED_SK6812_EC15_1.5x1.5mm                          82.0500  -102.4500    0.0000  top
+D16       SK6805          LED_SK6812_EC15_1.5x1.5mm                          80.1608   -89.3855    0.0000  top
+J1        SK-3296S-01-L1  SK3296S01L1                                        80.4746  -130.1393  -90.0000  top
+R1        470             R_0603_1608Metric                                 163.4447  -117.8732  180.0000  top
+S1        TS-1187A-B-A-B  TS1187ABAB                                         80.4994  -119.1243    0.0000  top
+U1        ATtiny44A-M     QFN-20-1EP_4x4mm_P0.5mm_EP2.5x2.5mm_ThermalVias   163.5104  -123.9227    0.0000  top
+U2        L78L05_SOT89    SOT-89-3                                          163.5542  -132.0545  -90.0000  top
+## End
